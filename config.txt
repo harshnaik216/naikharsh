@@ -1,0 +1,1 @@
+{"ip":"nc_custome.aternos.me","name":"nc_custome","port":"28039"}
